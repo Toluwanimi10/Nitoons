@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.logo{
+    width: 57px;
+    height: 57px;
+    border-radius: 3.8px;
+    margin-top: 52px;
+    margin-left: 79px;
+}
+.paragraph{
+    width: 324px;
+    height: 20px;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 558px;
+    gap: 50px;
+}
+.button{
+    display: flex;
+    justify-content: end;
+    width: 136px;
+    height: 42px;
+    margin-top: 60px;
+    margin-right: 78px;
+
+}
+.container2{
+    width: 820px;
+    height: 140px;
+    margin-top: 182px;
+    margin-left: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 400;
+    size: 64.41px;
+    color:  #000000;
+}
+.brand{
+    justify-content: end;
+    margin-left: 1156px;
+}
+.brandimages{
+    display: flex;
+    width: 33px;
+    height: 33px;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.display{
+    width: 504px;
+    height: 370px;
+    margin-left: 78px;
+    border-radius: 30px;
+}
+.display2{
+    width: 468px;
+    height: 370px;
+    border-radius: 30px;
+}
+.display3{
+    width: 231px;
+    height: 370px;
+    border-radius: 30px;
+}
+.section2{
+    background-color: #041732;
+    margin-top: 82px;
+}
+.header{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 82px;
+}
+.brand2{
+    width: 578px;
+    height: 397px;
+    margin-left: 76px;
+    margin-top: 248px;
+    border-radius: 20px;
+}
+.text{
+    color: white;
+    margin-left: 200px;
+    margin-top: 381px;
+    width: 551px;
+    height: 96px;
+    font-weight: 400;
+    size: 40px;
+}
+.cont{
+    display: flex;
+}
+.animatebutton{
+    margin-left: 81px;
+    margin-top: 159px;
+    width: 158px;
+    height: 42px;
+    border-radius: 20px;
+    background-color: #5C51E0;    
+}
+.contain{
+    display: flex;
+}
+.type{
+    margin-left: 81px;
+    color: white;
+
+}
+.type h2{
+    margin-top: 26px;
+}
+.type button{
+    margin-left: 9px;
+}
+.robot{
+    width: 614px;
+    height: 392px;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-bottom: 122px;
+}
+.section3{
+    background-color: white;
+}
+.create{
+    width: 541px;
+    height: 90px;
+    margin-left: 439px;
+    padding-top: 51px;
+}
+.banner{
+    margin-left: 364px;
+    margin-top: 183px;
+}
+button{
+    margin-left: 615px;
+    padding-bottom: 53.32px;
+    width: 100.59px;
+
+}
+.section4{
+    padding-top: 92px; 
+}
+.discover{
+    color: white;
+    margin-left: 81px;
+}
+.discover p{
+    padding-top: 20px;
+    width: 568px;
+}
+.longimage{
+ margin-left: 81px;
+ margin-top: 90px;
+ padding-bottom: 78px;
+}
+.section5{
+    background-color: white;
+    display: flex;
+}
+.group{
+    margin-left: 162px;
+    padding-top: 74px;
+}
+.group img{
+    border-radius: 30px;
+    width: 500px;
+    height: 468px;
+}
+
+.unlock{
+    padding-top: 141px;
+    padding-left: 56px;
+    width: 536px;
+    height: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about{
+ background-color: #000000;
+}
+.about img{
+    width: 53px;
+    height: 53px;
+    margin-left: 78px;
+    margin-top: 101px;
+}
+.about h2{
+    color: lightblue;
+    margin-left: 78px;
+    padding-top: 41px;
+}
+.about p{
+    color: white;
+    margin-left: 78px;
+    width: 472px;
+    height: 147px;
+    padding-top: 20px;
+
+}
+.parentabout{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    background-color: #000000;
+}
+.Ihc{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    margin-left: 240px;
+    margin-top: 101px;
+}
+.I ul li{
+    color: white;
+    list-style: none;
+    margin-top: 20px;
+}
+.I h3{
+    color: lightblue;
+}
+
+.last{
+    background-color: #000000;
+}
+.last img{
+    margin-left: 626px;
+    margin-top: 43px;
+    margin-bottom: 52px;
+}
